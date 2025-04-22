@@ -1,4 +1,2 @@
-# cmd_101
-Command-Line 101
-
-## An Unofficial Tech Primer
+# Curriculum ideas
+- Command Line 101
