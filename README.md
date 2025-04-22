@@ -1,1 +1,2 @@
-# Lesson ideas
+# Curriculum ideas
+- Command Line 101
